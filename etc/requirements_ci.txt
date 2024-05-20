@@ -22,7 +22,7 @@ pandas==0.19.1  # please update the .travis.yml file!
 partd==0.3.6
 psutil==4.4.2
 psycopg2==2.7.3
-PyHive==0.2.1
+PyHive==0.7.0
 pymongo==2.9.4
 PyMySQL==0.7.9
 pytest==3.0.3
