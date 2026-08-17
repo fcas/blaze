@@ -11,7 +11,7 @@ h5py==2.6.0
 itsdangerous==0.24
 Jinja2==2.8
 llvmlite==0.14.0
-locket==0.2.0
+locket==1.0.0
 MarkupSafe==0.23
 multipledispatch==0.4.9
 networkx==1.11
