@@ -25,7 +25,7 @@ psycopg2==2.7.3
 PyHive==0.2.1
 pymongo==2.9.4
 PyMySQL==0.7.9
-pytest==3.0.3
+pytest==9.1.1
 pytest-cov==2.0.0
 python-dateutil==2.5.3
 pytz==2016.7
